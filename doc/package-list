@@ -1,0 +1,9 @@
+com.bakery.controllers
+com.bakery.domain
+com.bakery.domain.biscuit
+com.bakery.domain.bun
+com.bakery.domain.cake
+com.bakery.factory.biscuit
+com.bakery.factory.bun
+com.bakery.factory.cake
+com.bakery.services
